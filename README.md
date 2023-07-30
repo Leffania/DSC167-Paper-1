@@ -11,3 +11,10 @@ This repository includes both Python code and a LaTeX report as part of an inter
 `notebook.ipynb`: Jupyter notebook containing a combination of both written and statistical analyses on the data
 
 `paper.pdf`: LaTeX report compiled from `notebook.ipynb` as a final, more accessible version of the analysis
+
+### Requirements
+The following Python packages are required to run the Jupyter notebooks:
+
+- `matplotlib`
+- `pandas`
+- `numpy`
