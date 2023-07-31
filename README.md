@@ -16,5 +16,5 @@ This repository includes both Python code and a LaTeX report as part of an inter
 The following Python packages are required to run the Jupyter notebooks:
 
 - `matplotlib`
-- `pandas`
 - `numpy`
+- `pandas`
